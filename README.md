@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning how to focus and how to make videos
+- 💬 Ask me about webtoon and the k-industrie
+
 <!--
 **evalo17/evalo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
